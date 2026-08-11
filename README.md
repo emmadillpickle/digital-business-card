@@ -1,5 +1,9 @@
 # Digital Business Card
 
-The Digital Business Card is my first React project. It's just a single, static page, but it's a big step in my journey of learning React and modern frontend development.
+Digital Business Card is my first React project. I built it to learn the fundamentals of React and modern frontend tooling. While the application itself is a simple, static page, it marks the beginning of my journey into frontend development.
 
-*Note: The headshot is a stock image.*
+## Preview
+
+![Digital Business Card Preview](./screenshots/preview.png)
+
+*Note: The headshot used in this project is a stock image.*
