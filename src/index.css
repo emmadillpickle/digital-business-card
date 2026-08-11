@@ -1,0 +1,17 @@
+:root {
+  --bg: #23252C;
+  background: var(--bg);
+
+}
+
+#root {
+  width: 1126px;
+  max-width: 550px;
+  max-height: 868px;
+  margin: 0 auto;
+  text-align: center;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  font-family: "Inter", sans-serif
+}

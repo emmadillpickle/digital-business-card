@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    background-color: #161619;
+    height: 64px;
+    justify-content: center;
+}
+
+footer > div {
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer > div > img {
+    width: 25px
+}

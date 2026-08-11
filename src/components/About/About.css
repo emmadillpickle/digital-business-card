@@ -1,0 +1,20 @@
+.about-section {
+    margin-top: 20px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.about-section > h1 {
+    font-size: 16px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.about-section > p {
+    font-size: 10.24;
+    font-weight: 400;
+    text-align: left;
+    line-height: 1.6;
+    margin-top: 0px;
+}
